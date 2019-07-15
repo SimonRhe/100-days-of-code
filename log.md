@@ -1,34 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 1: 2019-08-05
+### Day 1: 2019-07-15
 
-**Today's Tweet:** Day 1: Completed 3 problems on HackerRank! (link to my profile) #100daysofcode
+**Today's Tweet:** I'm starting the #100daysofcode challenge! Day 1: Solved a @HackerRank RegEx challenge, improved my VS @Code setup and completed tutorial [Develop web applications with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/develop-web-apps-with-vs-code/)
 
-**Projects worked on:** HackerRank
+**Projects worked on:** HackerRank, Tutorials
 
 **Link to work:** [My HackerRank Profile](https://www.hackerrank.com/SimonRhe)
 
-**Thoughts:** Test test test test
+**Thoughts:** It's always hard to get started when you sit down at the computer. Doing a simple HackerRank problem helped me get going. I need to improve my dev environment to be more productive so I did a VS Code tutorial and downloaded a few extensions.
 
-**Ideas for improvement:** Test test test test
-
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Ideas for improvement:** Continue to set up my dev environment.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
