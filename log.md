@@ -1,10 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 2: 2019-07-16
+
+**Today's Tweet:** Day 2: Limited time today but managed to solve a HackerRank problem and set up Git in VS Code [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) #100daysofcode
+
+**Projects worked on:** HackerRank, Setup
+
+**Link to work:** [My HackerRank Profile](https://www.hackerrank.com/SimonRhe)
+
+**Thoughts:** I'm happy I could at least do some programming! 
+
+**Ideas for improvement:** I'll continue seting up VS Code and my dev environment, and will create a simplme web project on which I can work when I have limited time. 
+
+
 ### Day 1: 2019-07-15
 
 **Today's Tweet:** I'm starting the #100daysofcode challenge! Day 1: Solved a @HackerRank RegEx challenge, improved my VS @Code setup and completed tutorial [Develop web applications with Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/develop-web-apps-with-vs-code/)
 
-**Projects worked on:** HackerRank, Tutorials
+**Projects worked on:** HackerRank, Tutorials, Setup
 
 **Link to work:** [My HackerRank Profile](https://www.hackerrank.com/SimonRhe)
 
