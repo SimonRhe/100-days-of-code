@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: 2019-07-17
+
+**Today's Tweet:** Day 3: Copied a project I had started on CodePen to my local dev environment to test it, and solved a HackerRank problem. #100daysofcode
+
+**Projects worked on:** HackerRank, Setup
+
+**Link to work:** [My HackerRank Profile](https://www.hackerrank.com/SimonRhe)
+
+**Thoughts:** Tired today, but still did a little bit!
+
+**Ideas for improvement:** I need to get better a blocking my time to get more programming done.
+
+
 ### Day 2: 2019-07-16
 
 **Today's Tweet:** Day 2: Limited time today but managed to solve a HackerRank problem and set up Git in VS Code [Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol) #100daysofcode
