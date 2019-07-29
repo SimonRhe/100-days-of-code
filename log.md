@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 4: 2019-07-29
+
+**Today's Tweet:** Day 4 after a long break (it's summer!): worked hard to solve an "easy" @HackerRank problem and came to the conclusion that the test cases don't match the problem statement. Posted for the first time on the discussion board, let's see what others think! https://www.hackerrank.com/challenges/divisible-sum-pairs/forum/comments/612727 #100daysofcode
+
+**Projects worked on:** HackerRank
+
+**Thoughts:** Did this in the middle of the night to be productive in spite of insomnia...
+
+**Ideas for improvement:** Less HackerRank, more projects!
+
+
 ### Day 3: 2019-07-17
 
 **Today's Tweet:** Day 3: Copied a project I had started on CodePen to my local dev environment to test it, and solved a HackerRank problem. #100daysofcode
