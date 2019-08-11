@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: 2019-08-09
+
+**Today's Tweet:** Day 5: I finally got back to coding after moving our family from Austria 🇦🇹 to Brazil 🇧🇷! Partially solved a HackerRank problem in JavaScript but got a "terminated due to timeout" on the larger test cases--will try not to go through entire array every time! #100daysofcode
+
+**Projects worked on:** HackerRank
+
+**Thoughts:** It was hard today!... Not enough practice I guess.
+
+**Ideas for improvement:** More consistency.
+
+
+
 ### Day 4: 2019-07-29
 
 **Today's Tweet:** Day 4 after a long break (it's summer!): worked hard to solve an "easy" @HackerRank problem and came to the conclusion that the test cases don't match the problem statement. Posted for the first time on the discussion board, let's see what others think! https://www.hackerrank.com/challenges/divisible-sum-pairs/forum/comments/612727 #100daysofcode
