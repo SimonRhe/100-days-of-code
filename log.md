@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 6: 2019-08-14
+
+**Today's Tweet:** Day 6: Back to basics! Created a new page framework for an app using HTML and CSS grid, brushed up on Emmet to make my job easier https://docs.emmet.io/cheat-sheet/ and uploaded to GitHub through the VS Code plug-in. Feeling great! 😀 #100daysofcode
+
+**Projects worked on:** Have a Nice Day web app - created HTML and CSS framework for weekly plan
+
+**Thoughts:** Great to be working on a project that will be useful to me! I must determine what's my minimum viable product features and focus on those so I can really use it.
+
+**Ideas for improvement:** Look up and follow a web development methodology that will take me through the steps in the right oder: user story, wireframe, etc.
+
+
+
 ### Day 5: 2019-08-09
 
 **Today's Tweet:** Day 5: I finally got back to coding after moving our family from Austria 🇦🇹 to Brazil 🇧🇷! Partially solved a HackerRank problem in JavaScript but got a "terminated due to timeout" on the larger test cases--will try not to go through entire array every time! #100daysofcode
