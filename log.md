@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+
+### Day 7: 2019-08-17
+
+**Today's Tweet:** Day 7: tried to better organize a personal project I'm working on by wireframing a minimum viable product, and then started coding the interface in HTML & CSS. ❓ Does anyone know of a simple web app dev methodology that describes the steps from design to shipping? #100daysofcode
+
+**Projects worked on:** Have a Nice Day web app - weekly plan
+
+**Thoughts:** I think the MVP I developed will be useful at least for me! But in the end it looks like a spreadsheet so is it worth the effort?
+
+**Ideas for improvement:** Look up how to use multiple CSS classes on a grid for table-like behavior.
+
+
+
+
 ### Day 6: 2019-08-14
 
 **Today's Tweet:** Day 6: Back to basics! Created a new page framework for an app using HTML and CSS grid, brushed up on Emmet to make my job easier https://docs.emmet.io/cheat-sheet/ and uploaded to GitHub through the VS Code plug-in. Feeling great! 😀 #100daysofcode
