@@ -1,7 +1,19 @@
 # 100 Days Of Code - Log
 
 
-### Day 7: 2019-08-17
+### Day 8: 2019-08-17
+
+**Today's Tweet:** Day 8: It was a busy Saturday but I managed to solve 2 HackerRank problems: one using a RegEx and another manipulating JavaScript arrays. #100daysofcode
+
+**Projects worked on:** HackerRank
+
+**Thoughts:** Used a JavaScript object to count the number times an item occurs in an array--simple and it worked but for some reason I thought I had tried it before and it hadn't worked.
+
+**Ideas for improvement:** Maybe do some JavaScript exercices specifically on objects?
+
+
+
+### Day 7: 2019-08-16
 
 **Today's Tweet:** Day 7: tried to better organize a personal project I'm working on by wireframing a minimum viable product, and then started coding the interface in HTML & CSS. ❓ Does anyone know of a simple web app dev methodology that describes the steps from design to shipping? #100daysofcode
 
