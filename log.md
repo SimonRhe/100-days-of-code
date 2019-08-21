@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 9: 2019-08-20
+
+**Today's Tweet:** Day 9: Continued working on the UI in HTML and CSS for a personal project, used NPM to install http://sheetjs.com/ -- a JavaScript library to work with Excel spreadsheets -- but haven't quite got it to work yet... #100daysofcode
+
+**Projects worked on:** Have a Nice Day web app - weekly plan
+
+**Thoughts:** Frustrating to not really know how to use a JS library! One step at a time!
+
+**Ideas for improvement:** I need to get more familiar with NPM, Node.js and importing code into my JS files.
+
+
+
 ### Day 8: 2019-08-17
 
 **Today's Tweet:** Day 8: It was a busy Saturday but I managed to solve 2 HackerRank problems: one using a RegEx and another manipulating JavaScript arrays. #100daysofcode
