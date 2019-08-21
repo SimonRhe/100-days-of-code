@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: 2019-08-21
+
+**Today's Tweet:** Day 10: Lots of progress on my demo web app today! I added JS functionality including an "Export to Excel" button using @SheetJS ! #100daysofcode
+
+**Projects worked on:** Have a Nice Day web app - weekly plan
+
+**Thoughts:** Great day today! Added JavaScript to the app including ability to change weeks and export to Excel. Go to use vanilla JavaScript and learned how to use outside library.
+
+**Ideas for improvement:** Need to continue exloring the DOM API.
+
 
 ### Day 9: 2019-08-20
 
