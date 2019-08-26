@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 11: 2019-08-26
+
+**Today's Tweet:** Day 11: Converted my demo web app from vanilla JS to React today, which should make things easier in the long run. Used create-react-app for the 1st time, thankful for the setup time it saved me! #100daysofcode
+
+**Projects worked on:** GoalTrack (React version of Have a Nice Day web app - weekly plan) on Codepen.io then in VS Code
+
+**Thoughts:** Really got back into React today and understand a lot more, this will help me get started on fCC again.
+
+**Ideas for improvement:** 
+* Next steps:
+  * Copy over my React code from Codepen to my local dev environment which I set up with create-react-app.
+  * Immediately set up my portfolio web site (on github.io ???) to guide my dev efforts, ie. not lose sight of my goal to set up a portfolio
+
+
+
 ### Day 10: 2019-08-21
 
 **Today's Tweet:** Day 10: Lots of progress on my demo web app today! I added JS functionality including an "Export to Excel" button using @SheetJS ! #100daysofcode
