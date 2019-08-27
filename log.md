@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+
+### Day 12: 2019-08-27
+
+**Today's Tweet:** Day 12: Finished setting up my local React dev environment, and added React-Bootstrap to my project to try and make it look nicer—but soon realized that Bootstrap is a whole system in itself that I need to get better at! #100daysofcode
+
+**Projects worked on:** GoalTrack (React version of Have a Nice Day web app - weekly plan) on Codepen.io then in VS Code
+
+**Thoughts:** Got my local React dev environment to work, played around with Bootstrap to try and improve the look of my app but it's not that simple!
+
+**Ideas for improvement:** 
+* Next steps:
+  * Implement working checkboxes in my demo app
+
+
 ### Day 11: 2019-08-26
 
 **Today's Tweet:** Day 11: Converted my demo web app from vanilla JS to React today, which should make things easier in the long run. Used create-react-app for the 1st time, thankful for the setup time it saved me! #100daysofcode
