@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 
+### Days 13-14: 2019-08-29
+
+**Today's Tweet:** Days 13-14: Took a forced dive into controlled components and state management in React for my demo app. That slowed me down, but I now have a much better understanding of both! Next step: learn about Redux on @freeCodeCamp ! #100daysofcode
+
+**Projects worked on:** GoalTrack
+
+**Thoughts:** I now understand React much better! I think the built in React state management doesn't do what I need it to do for my app, and I think I understand why freeCodeCamp introduces Redux right after React.
+
+**Ideas for improvement:** 
+* Next steps:
+  * freeCodeCamp Redux
+
+
+
 ### Day 12: 2019-08-27
 
 **Today's Tweet:** Day 12: Finished setting up my local React dev environment, and added React-Bootstrap to my project to try and make it look nicer—but soon realized that Bootstrap is a whole system in itself that I need to get better at! #100daysofcode
