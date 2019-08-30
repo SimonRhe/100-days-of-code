@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Days 15: 2019-08-30
+### Day 15: 2019-08-30
 
 **Today's Tweet:** Day 15: I hadn't made much progress on @freeCodeCamp lately as I was focusing on a demo project, but today I finished the Redux section, which will be useful on my demo project! Next step: the freeCodeCamp React and Redux challenges #100daysofcode
 
