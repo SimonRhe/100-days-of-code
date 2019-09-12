@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 18-19: 2019-09-11
+
+**Today's Tweet:** Days 18-19: Finished the @freeCodeCamp Random Quote Generator assignment: https://codepen.io/SimonRhe/full/oNvqJKW and got started on the Markdown Previewer using React. I found the "Thinking in React" article very useful to structure my work: https://reactjs.org/docs/thinking-in-react.html #100daysofcode
+
+### Day 17: 2019-09-04
+
+**Today's Tweet:** Day 17: Got started on the Random Quote Generator project for the @freeCodeCamp Front-End Libraries certification. Got the HTML and CSS set up, used @fontawesome and will add @jquery next time! #100daysofcode
+
+### Day 16: 2019-09-03
+
+**Today's Tweet:** Day 16: Completed the React and Redux section on @freeCodeCamp
+ — I'm still undecided as to whether using both together makes a complex app more manageable or just manages to make an app more complex! 🤔  On to the Front End Libraries Projects! #100daysofcode
 
 ### Day 15: 2019-08-30
 
