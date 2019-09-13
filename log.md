@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 18-19: 2019-09-11
+### Days 20-21: 2019-09-13
+
+**Today's Tweet:** Days 20-21: Another project done: I finished the @freeCodeCamp Markdown Previewer assignment https://codepen.io/SimonRhe/full/qBWKvXo #100daysofcode
+
+
+### Days 18-19: 2019-09-11
 
 **Today's Tweet:** Days 18-19: Finished the @freeCodeCamp Random Quote Generator assignment: https://codepen.io/SimonRhe/full/oNvqJKW and got started on the Markdown Previewer using React. I found the "Thinking in React" article very useful to structure my work: https://reactjs.org/docs/thinking-in-react.html #100daysofcode
 
